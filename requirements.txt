@@ -1,1 +1,2 @@
 geopandas>=0.7
+plotly >= 5.0
